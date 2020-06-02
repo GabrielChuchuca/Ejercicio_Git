@@ -14,7 +14,7 @@ public class Logica {
         return "integrante 1";
     }
     public String metodoIntegrante2(){
-        return "integrante 2";
+        return "Este metodo a sido modificado por Andres Loja";
     }
     public String metodoIntegrante3(){
         return "integrante 3";
