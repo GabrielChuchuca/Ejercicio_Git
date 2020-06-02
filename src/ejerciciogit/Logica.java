@@ -11,7 +11,7 @@ package ejerciciogit;
  */
 public class Logica {
     public String metodoIntegrante1(){
-        return "integrante 1";
+        return "Este metodo ha sido modificado por Gabriel Chuchuca";
     }
     public String metodoIntegrante2(){
         return "integrante 2";
