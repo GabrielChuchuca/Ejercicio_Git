@@ -20,6 +20,6 @@ public class Logica {
         return "Este metodo ha sido modificado por Xavier Jarro";
     }
     public String metodoIntegrante4(){
-        return "Este metodo ha sido modificado por  Vinicio Veletanga";
+        return "Este metodo ha sido modificado por  Vinicio Veletanga.";
     }
 }
