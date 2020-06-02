@@ -7,19 +7,19 @@ package ejerciciogit;
 
 /**
  *
- * @author Gabriel Leonardo Chu
+ * @author Gabriel Leonardo Cuchuca
  */
 public class Logica {
     public String metodoIntegrante1(){
-        return "integrante 1";
+        return "Este metodo ha sido modificado por Gabriel Chuchuca";
     }
     public String metodoIntegrante2(){
-        return "Este metodo a sido modificado por Andres Loja";
+        return "Este metodo a sido modificado por Andres. Loja";
     }
     public String metodoIntegrante3(){
-        return "integrante 3";
+        return "Este metodo ha sido modificado por Xavier Jarro";
     }
     public String metodoIntegrante4(){
-        return "integrante 4";
+        return "Este metodo ha sido modificado por  Vinicio Veletanga.";
     }
 }
