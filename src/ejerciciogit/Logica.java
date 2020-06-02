@@ -11,13 +11,13 @@ package ejerciciogit;
  */
 public class Logica {
     public String metodoIntegrante1(){
-        return "integrante 1";
+        return "Este metodo ha sido modificado por Gabriel Chuchuca";
     }
     public String metodoIntegrante2(){
         return "integrante 2";
     }
     public String metodoIntegrante3(){
-        return "integrante 3";
+        return "Este metodo ha sido modificado por Xavier Jarro";
     }
     public String metodoIntegrante4(){
         return "Este metodo ha sido modificado por  Vinicio Veletanga";
