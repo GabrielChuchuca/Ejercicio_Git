@@ -7,7 +7,7 @@ package ejerciciogit;
 
 /**
  *
- * @author Gabriel Leonardo Chu
+ * @author Gabriel Leonardo Cuchuca
  */
 public class Logica {
     public String metodoIntegrante1(){
@@ -20,6 +20,6 @@ public class Logica {
         return "integrante 3";
     }
     public String metodoIntegrante4(){
-        return "integrante 4";
+        return "Este metodo ha sido modificado por  Vinicio Veletanga";
     }
 }
